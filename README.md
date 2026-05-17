@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # <a href="https://github.com/qmjnh"></a> Hi, I’m Minh!
 
-🤠 Hi there, I’m Minh, a passionate builder and researcher. Thanks for visiting my profile!
+🤠 Hi there, I’m Minh, a passionate builder and researcher. Thank you for visiting my profile!
 
 I work at the intersection of AI, mathematics, and real-world applications across science, healthcare, finance, and beyond.
 
@@ -26,9 +26,9 @@ In a past life, I worked as a computational biology and AI researcher at major U
 ## 💡 Projects I've Worked On
 - **Various agentic/LLM systems [private]** — efficient inference systems for multi-agent clinical data analysis;  internal AI workflow tools for research, sales, competitor discovery, and investment opportunities
 
-- **[Shepherd](https://github.com/QMjnh/shepherd)** — helps farmers monitor livestock health through computer vision. **1st place**, Midwest AI Challenge by Microsoft, Google, and PI515
+- **[Shepherd](https://github.com/QMjnh/shepherd)** — helps farmers monitor livestock health through computer vision. <u>**1st place**</u>, Midwest AI Challenge by Microsoft, Google, and PI515
 
-- **[Economic-Epidemiological Modeling Research](https://github.com/QMjnh/cv_frbus)** — research on COVID-era tradeoffs between public health policy and economic growth using FRED-based models, machine learning, and disease modeling. **1st place**, CIC Student Paper Challenge by Columbia University and the Northeast Big Data Hub
+- **[Economic-Epidemiological Modeling Research](https://github.com/QMjnh/cv_frbus)** — research on COVID-era tradeoffs between public health policy and economic growth using FRED-based models, machine learning, and disease modeling. <u>**1st place**</u>, CIC Student Paper Challenge by Columbia University and the Northeast Big Data Hub
 
 - **[Dino☀️☁️](https://qmjnh.github.io/dinogame/)** — the classic Chromium dino game with custom graphics
 
